@@ -1,0 +1,7 @@
+requests
+re
+wordcloud
+matplotlib
+pandas
+numpy 
+PIL
